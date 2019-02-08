@@ -1,0 +1,9 @@
+.header {
+    padding: 10px;
+    background: rgb(134, 134, 155);
+    font-size: 30px;
+  }
+
+  .name {
+      float: left
+  }
